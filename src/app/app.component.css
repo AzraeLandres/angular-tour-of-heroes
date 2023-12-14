@@ -1,0 +1,14 @@
+main {
+  height: 98vh;
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+div {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
